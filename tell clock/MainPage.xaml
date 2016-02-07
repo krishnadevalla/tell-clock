@@ -39,7 +39,7 @@
         <ToggleSwitch x:Name="toggle" Header="Time format" HorizontalAlignment="Left" Margin="0,693,0,-48" VerticalAlignment="Top" Height="123" Width="264" OffContent="12 hrs" OnContent="24 hrs"/>
 
         <MediaElement x:Name="tell7" AudioCategory="BackgroundCapableMedia"  AutoPlay="False" IsLooping="False" Volume="1" HorizontalAlignment="Left" Height="100" VerticalAlignment="Top" Width="100" Source="sounds/7.mp3" />
-        <TextBlock x:Name="name1" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="255,256,0,0">
+        <TextBlock x:Name="name1" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="67,483,0,0">
         	<Run Text="Now the time is:"/>
         	<LineBreak/>
         	<Run/>
